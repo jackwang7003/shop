@@ -1,0 +1,3 @@
+[submodule "2302-ACC-Capstone-BE"]
+	path = 2302-ACC-Capstone-BE
+	url = git@github.com:FullstackAcademy/2302-ACC-Capstone-BE.git
